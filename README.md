@@ -10,7 +10,10 @@ html {
 ```
 
 ## Usage
+just add [scrollAnimation.js](https://github.com/Miladxsar23/scroll-with-animation/blob/master/scrollAnimation.js) file to your html.
+
 I did this through requestAnimationFrame.
+
 The scrollAnim class has the properties and methods that I will explain below:
 
 part | type | Description 
