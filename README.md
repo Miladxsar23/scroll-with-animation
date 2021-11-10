@@ -22,7 +22,7 @@ regHref | property <Object RegExp> | regExp object for href
 reset | method | This method is called when the scroll reaches the target 
 scrollDown | method | This method is called when the target position is below the current position
 scrollUp | method | This method is called when the target position is above the current position
-checkHref | method | check href attribute , return true?<Array match>:NULL  
+checkHref | method | check href attribute , return true ? (Array match) : NULL  
   
 create a instace of ScrollAnim class : 
   
